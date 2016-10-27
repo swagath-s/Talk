@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "944934771869",
+    "firebase_url": "https://talk-a9279.firebaseio.com",
+    "project_id": "talk-a9279",
+    "storage_bucket": "talk-a9279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944934771869:android:7dc3c36e85ccc0f8",
+        "android_client_info": {
+          "package_name": "com.swagath.talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944934771869-uvidvrb57o5f76m2jjigu1c6se92fi5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swagath.talk",
+            "certificate_hash": "B2E643720C8C3754EDC5E3809066CBB2207252B8"
+          }
+        },
+        {
+          "client_id": "944934771869-q8idrlq2igq3sp4phceco9el5741m4t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7HEpPuKk2AahQPosdWL3QszRALQ3EpvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944934771869-q8idrlq2igq3sp4phceco9el5741m4t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
